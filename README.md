@@ -1,4 +1,4 @@
-<br />
+<br /> 
 <p align="center">
 <a href="https://typebot.io" target="_blank">
   <img src="./.github/images/banner.png" alt="Typebot banner">
